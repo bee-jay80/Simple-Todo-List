@@ -12,7 +12,7 @@ body {
   background-size: cover;
   /* optimize image to fit background */
     background-attachment: fixed;
-    
+
   margin: 0;
   padding: 0;
   display: flex;
@@ -32,7 +32,8 @@ body {
 
 h1 {
   text-align: center;
-  color: #333;
+  /* color: #333; */
+  color: rgba(56, 56, 234, 0.848);
   margin-bottom: 20px;
 }
 
